@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi guys, I am a graduate of the university faculty of information technology. I have an interest in the field of information technology, this makes me someone who is literate in technology. I have expertise in the field of frontend web development using javascript and ui design using figma or adobe xd. In addition to these skills, I also have a hobby of editing photos and videos.
+Hi guys, I am a graduate of the University Faculty of Information Technology. I have an interest in the field of Information Technology, this makes me someone who is literate in technology. I have expertise in the field of Frontend Web Development using Javascript and UI Design using Figma or Adobe XD. In addition to these skills, I also have a hobby of editing photos and videos.
 
 
 ## 🌐 Socials:
